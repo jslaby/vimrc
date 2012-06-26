@@ -28,3 +28,9 @@ colorscheme desert
 set ruler
 
 set backspace=indent,eol,start
+
+set wmw=0
+map <C-J> <C-W>j<C-W>_
+map <C-K> <C-W>k<C-W>_
+nmap <c-h> <c-w>h<c-w><Bar>
+nmap <c-l> <c-w>l<c-w><Bar>
