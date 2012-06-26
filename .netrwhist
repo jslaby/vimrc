@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/etc/apache2/conf.d'
+let g:netrw_dirhist_2='/home/justin/projects/dmmain/src'
+let g:netrw_dirhist_3='/home/justin/projects/dmmain/src/tests'
+let g:netrw_dirhist_4='/etc/php5/apache2/conf.d'
+let g:netrw_dirhist_5='/etc/apache2/conf.d'
+let g:netrw_dirhist_6='/home/justin/.xmonad'
+let g:netrw_dirhist_7='/home/justin/sites/test/kohana/application/classes/model'
+let g:netrw_dirhist_8='/etc/apache2/conf.d'
+let g:netrw_dirhist_9='/home/justin/.ssh'
